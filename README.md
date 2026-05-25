@@ -1,6 +1,6 @@
 # CO₂ Emissions Forecasting — A Machine Learning Model Comparison
 
-This repository contains the full research pipeline for a thesis studying **whether incorporating temperature-related variables improves CO₂ emission forecasting** across six major-emitting countries, using four machine learning models.
+This repository contains the full research pipeline for a thesis studying **whether incorporating temperature-related variables improves CO₂ emission forecasting** across six major-emitting countries, using four forecasting models.
 
 ---
 
@@ -22,7 +22,7 @@ How do different machine learning models perform in predicting CO₂ emissions a
 **Primary metric:** Scaled MAE (MinMax scaled to −0.9 to 0.9)
 
 **Key findings:**
-- ARIMAX achieves the best generalization performance, outperforming all three machine learning models on small-sample annual time-series data
+- ARIMAX achieves the best generalization performance among the four models, especially in this small-sample annual time-series setting
 - The effect of temperature variables is highly context-dependent and does not produce consistent predictive improvements across models, countries, or latitudinal regions
 - Cross-country forecasting difficulty far exceeds cross-model differences, suggesting data characteristics are more decisive than model selection
 - SHAP analysis shows temperature variables have limited marginal contribution, likely because their effects are already proxied by socioeconomic variables such as GDP and energy consumption
