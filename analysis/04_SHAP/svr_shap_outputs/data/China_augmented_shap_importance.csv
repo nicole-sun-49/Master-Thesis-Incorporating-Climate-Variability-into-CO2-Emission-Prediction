@@ -1,0 +1,12 @@
+country,feature_set,rank,feature,mean_abs_shap
+China,augmented,1,CO2_emissions_lag1,0.21789160960322243
+China,augmented,2,GDP,0.15670027546044377
+China,augmented,3,Renewable energy consumption,0.1546039871495437
+China,augmented,4,Electric power consumption,0.07294075021316011
+China,augmented,5,Fossil fuel energy consumption,0.017603172757902668
+China,augmented,6,Fertilizer consumption,0.008613325775416729
+China,augmented,7,Temperature annual mean,0.007014836802814744
+China,augmented,8,Number of hot days,0.004592605106453756
+China,augmented,9,Number of frost days,0.00443756321255525
+China,augmented,10,Temperature std across months,0.0031074295688569907
+China,augmented,11,Population,0.0001217433112676925

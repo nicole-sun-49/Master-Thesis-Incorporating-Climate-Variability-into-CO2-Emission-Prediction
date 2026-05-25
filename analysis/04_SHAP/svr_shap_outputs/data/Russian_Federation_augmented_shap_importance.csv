@@ -1,0 +1,12 @@
+country,feature_set,rank,feature,mean_abs_shap
+Russian Federation,augmented,1,Fertilizer consumption,0.11485581452045414
+Russian Federation,augmented,2,CO2_emissions_lag1,0.08879264320432134
+Russian Federation,augmented,3,Electric power consumption,0.08182279475212977
+Russian Federation,augmented,4,Temperature std across months,0.03485111937355238
+Russian Federation,augmented,5,Fossil fuel energy consumption,0.028936264608489023
+Russian Federation,augmented,6,Renewable energy consumption,0.014701867449021697
+Russian Federation,augmented,7,Temperature annual mean,0.012069611176831798
+Russian Federation,augmented,8,Population,0.010356771836160626
+Russian Federation,augmented,9,Number of hot days,0.009645817092894212
+Russian Federation,augmented,10,Number of frost days,0.005250531831568511
+Russian Federation,augmented,11,GDP,0.0015944059095075556

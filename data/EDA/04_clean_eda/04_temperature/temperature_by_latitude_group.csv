@@ -1,0 +1,4 @@
+Latitude Group,Countries,Temperature annual mean_mean,Temperature annual mean_std,Temperature annual mean_min,Temperature annual mean_max,Temperature std across months_mean,Temperature std across months_std,Temperature std across months_min,Temperature std across months_max,Number of frost days_mean,Number of frost days_std,Number of frost days_min,Number of frost days_max,Number of hot days_mean,Number of hot days_std,Number of hot days_min,Number of hot days_max
+High Latitude,Canada / Russian Federation,1.3785,0.8064,-0.0038,3.5404,1.4031,0.2906,0.8726,2.0785,225.0938,7.0294,210.97,243.07,0.275,0.3923,0.0,2.49
+Middle Latitude,United States / China,0.9764,0.4698,-0.0101,2.0091,0.78,0.2064,0.3702,1.3423,134.03,19.7266,102.06,162.48,9.1419,4.2935,1.94,21.09
+Low Latitude,India / Indonesia,0.5703,0.328,-0.0755,1.3727,0.3571,0.1797,0.121,0.7319,6.566,6.6213,0.0,13.9,39.8476,39.0024,0.22,93.89

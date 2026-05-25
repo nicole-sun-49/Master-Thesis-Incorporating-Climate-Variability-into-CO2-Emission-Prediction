@@ -1,0 +1,80 @@
+Country,Feature,Year
+Russian Federation,Electric power consumption,2023
+Russian Federation,Fertilizer consumption,1990
+Russian Federation,Fertilizer consumption,1991
+Russian Federation,Fossil fuel energy consumption,2023
+Canada,Industry,1990
+Canada,Industry,1991
+Canada,Industry,1992
+Canada,Industry,1993
+Canada,Industry,1994
+Canada,Industry,1995
+Canada,Industry,1996
+Canada,Industry,2022
+Canada,Industry,2023
+United States,Industry,1990
+United States,Industry,1991
+United States,Industry,1992
+United States,Industry,1993
+United States,Industry,1994
+United States,Industry,1995
+United States,Industry,1996
+United States,Industry,2022
+United States,Industry,2023
+Indonesia,Number of frost days,1990
+Indonesia,Number of frost days,1991
+Indonesia,Number of frost days,1992
+Indonesia,Number of frost days,1993
+Indonesia,Number of frost days,1994
+Indonesia,Number of frost days,1995
+Indonesia,Number of frost days,1996
+Indonesia,Number of frost days,1997
+Indonesia,Number of frost days,1998
+Indonesia,Number of frost days,1999
+Indonesia,Number of frost days,2000
+Indonesia,Number of frost days,2001
+Indonesia,Number of frost days,2002
+Indonesia,Number of frost days,2003
+Indonesia,Number of frost days,2004
+Indonesia,Number of frost days,2005
+Indonesia,Number of frost days,2006
+Indonesia,Number of frost days,2007
+Indonesia,Number of frost days,2008
+Indonesia,Number of frost days,2009
+Indonesia,Number of frost days,2010
+Indonesia,Number of frost days,2011
+Indonesia,Number of frost days,2012
+Indonesia,Number of frost days,2013
+Indonesia,Number of frost days,2014
+Indonesia,Number of frost days,2015
+Indonesia,Number of frost days,2016
+Indonesia,Number of frost days,2017
+Indonesia,Number of frost days,2018
+Indonesia,Number of frost days,2019
+Indonesia,Number of frost days,2020
+Indonesia,Number of frost days,2021
+Indonesia,Number of frost days,2022
+Indonesia,Number of frost days,2023
+Canada,Number of hot days,1992
+Canada,Number of hot days,1993
+Canada,Number of hot days,1999
+Canada,Number of hot days,2004
+Canada,Number of hot days,2009
+Canada,Number of hot days,2013
+Canada,Number of hot days,2016
+Canada,Renewable energy consumption,2022
+Canada,Renewable energy consumption,2023
+China,Renewable energy consumption,2022
+China,Renewable energy consumption,2023
+India,Renewable energy consumption,2022
+India,Renewable energy consumption,2023
+Indonesia,Renewable energy consumption,2022
+Indonesia,Renewable energy consumption,2023
+Russian Federation,Renewable energy consumption,2022
+Russian Federation,Renewable energy consumption,2023
+United States,Renewable energy consumption,2022
+United States,Renewable energy consumption,2023
+Russian Federation,Temperature annual mean,1990
+Russian Federation,Temperature annual mean,1991
+Russian Federation,Temperature std across months,1990
+Russian Federation,Temperature std across months,1991

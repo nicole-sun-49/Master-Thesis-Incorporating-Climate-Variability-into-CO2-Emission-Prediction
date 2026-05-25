@@ -1,0 +1,13 @@
+Feature,Country,n_total,n_nan,n_non_nan,n_zero,pct_zero,min,median,max,fill_0_justification
+Number of frost days,Canada,34,0,34,0,0.0,212.16,226.18,243.07,No NaN – no imputation needed
+Number of frost days,China,34,0,34,0,0.0,146.48,153.37,162.48,No NaN – no imputation needed
+Number of frost days,India,34,0,34,0,0.0,12.15,13.12,13.9,No NaN – no imputation needed
+Number of frost days,Indonesia,34,34,0,0,,,,,All years missing; tropical equatorial country – frost physically impossible → fill 0
+Number of frost days,Russian Federation,34,0,34,0,0.0,210.97,222.625,237.97,No NaN – no imputation needed
+Number of frost days,United States,34,0,34,0,0.0,102.06,115.57,126.01,No NaN – no imputation needed
+Number of hot days,Canada,34,7,27,0,0.0,0.01,0.03,0.56,7 years missing; non-NaN median ≈ 0.03 days (near-zero) → fill 0 introduces negligible error
+Number of hot days,China,34,0,34,0,0.0,1.94,5.665,10.45,No NaN – no imputation needed
+Number of hot days,India,34,0,34,0,0.0,57.48,77.38,93.89,No NaN – no imputation needed
+Number of hot days,Indonesia,34,0,34,0,0.0,0.22,0.94,5.58,No NaN – no imputation needed
+Number of hot days,Russian Federation,34,0,34,0,0.0,0.03,0.44,2.49,No NaN – no imputation needed
+Number of hot days,United States,34,0,34,0,0.0,6.54,12.155,21.09,No NaN – no imputation needed

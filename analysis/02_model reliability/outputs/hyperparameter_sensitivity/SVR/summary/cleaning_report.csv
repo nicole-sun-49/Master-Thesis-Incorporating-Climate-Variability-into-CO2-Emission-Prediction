@@ -1,0 +1,2 @@
+model,mae_threshold,original_rows,cleaned_rows,removed_rows,removed_ratio
+SVR,2,3120,3120,0,0.0

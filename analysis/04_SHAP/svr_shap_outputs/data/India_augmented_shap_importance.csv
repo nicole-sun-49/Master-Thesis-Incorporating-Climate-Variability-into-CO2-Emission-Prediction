@@ -1,0 +1,12 @@
+country,feature_set,rank,feature,mean_abs_shap
+India,augmented,1,Electric power consumption,0.22681740883600984
+India,augmented,2,GDP,0.12589603870832813
+India,augmented,3,Fossil fuel energy consumption,0.0878450405731529
+India,augmented,4,Fertilizer consumption,0.08183228572924921
+India,augmented,5,CO2_emissions_lag1,0.066457857171635
+India,augmented,6,Renewable energy consumption,0.04055612827067645
+India,augmented,7,Population,0.03087164660541031
+India,augmented,8,Temperature std across months,0.008988001515478168
+India,augmented,9,Temperature annual mean,0.007814227864356689
+India,augmented,10,Number of hot days,0.0006582402464230628
+India,augmented,11,Number of frost days,6.439834547068155e-06

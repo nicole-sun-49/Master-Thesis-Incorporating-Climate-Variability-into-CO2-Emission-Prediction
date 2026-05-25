@@ -1,0 +1,12 @@
+country,feature_set,rank,feature,mean_abs_shap
+Indonesia,augmented,1,Electric power consumption,0.20828113788189664
+Indonesia,augmented,2,CO2_emissions_lag1,0.10200593894317757
+Indonesia,augmented,3,Fertilizer consumption,0.07205669971365825
+Indonesia,augmented,4,GDP,0.06123248671717111
+Indonesia,augmented,5,Renewable energy consumption,0.054424665233440236
+Indonesia,augmented,6,Population,0.0536388560260518
+Indonesia,augmented,7,Temperature annual mean,0.03668245300399495
+Indonesia,augmented,8,Fossil fuel energy consumption,0.02030544107646465
+Indonesia,augmented,9,Number of hot days,0.009428720080391131
+Indonesia,augmented,10,Temperature std across months,0.004380959704874288
+Indonesia,augmented,11,Number of frost days,0.0

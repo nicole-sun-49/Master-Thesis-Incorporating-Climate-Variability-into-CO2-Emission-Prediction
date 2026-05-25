@@ -1,0 +1,343 @@
+country,feature,year,original_value,new_value,method
+Canada,Industry,1997,27.716439058545916,,column_dropped
+Canada,Industry,1998,26.83386866466994,,column_dropped
+Canada,Industry,1999,27.871739438862527,,column_dropped
+Canada,Industry,2000,29.500037520466737,,column_dropped
+Canada,Industry,2001,28.447535461999852,,column_dropped
+Canada,Industry,2002,27.573141032783298,,column_dropped
+Canada,Industry,2003,27.907410447725507,,column_dropped
+Canada,Industry,2004,28.391119722337848,,column_dropped
+Canada,Industry,2005,29.212991524177795,,column_dropped
+Canada,Industry,2006,28.8475544811015,,column_dropped
+Canada,Industry,2007,28.6859019053535,,column_dropped
+Canada,Industry,2008,29.34201950465891,,column_dropped
+Canada,Industry,2009,25.076018211277805,,column_dropped
+Canada,Industry,2010,26.351133161989527,,column_dropped
+Canada,Industry,2011,27.13934059838912,,column_dropped
+Canada,Industry,2012,26.634668797425576,,column_dropped
+Canada,Industry,2013,26.613235175836603,,column_dropped
+Canada,Industry,2014,27.13794246018717,,column_dropped
+Canada,Industry,2015,24.415682546891595,,column_dropped
+Canada,Industry,2016,23.29530054558479,,column_dropped
+Canada,Industry,2017,24.02780288707915,,column_dropped
+Canada,Industry,2018,24.622305955435323,,column_dropped
+Canada,Industry,2019,24.07740787694132,,column_dropped
+Canada,Industry,2020,22.451617319499977,,column_dropped
+Canada,Industry,2021,25.331747517759585,,column_dropped
+China,Industry,1990,40.95321390034691,,column_dropped
+China,Industry,1991,41.36470267184392,,column_dropped
+China,Industry,1992,42.95568711074312,,column_dropped
+China,Industry,1993,45.98771588818443,,column_dropped
+China,Industry,1994,45.95072661484747,,column_dropped
+China,Industry,1995,46.51583290997155,,column_dropped
+China,Industry,1996,46.84529240720891,,column_dropped
+China,Industry,1997,46.79965779869118,,column_dropped
+China,Industry,1998,45.44113231521047,,column_dropped
+China,Industry,1999,44.95553916713815,,column_dropped
+China,Industry,2000,45.07383151775861,,column_dropped
+China,Industry,2001,44.27654360260099,,column_dropped
+China,Industry,2002,43.875802812218446,,column_dropped
+China,Industry,2003,44.98276213271458,,column_dropped
+China,Industry,2004,45.2328326582556,,column_dropped
+China,Industry,2005,46.38162169845846,,column_dropped
+China,Industry,2006,46.886502859217245,,column_dropped
+China,Industry,2007,46.18523623010748,,column_dropped
+China,Industry,2008,46.236419130248166,,column_dropped
+China,Industry,2009,45.178858723135626,,column_dropped
+China,Industry,2010,45.70662071067777,,column_dropped
+China,Industry,2011,45.800205410810726,,column_dropped
+China,Industry,2012,44.682069816547845,,column_dropped
+China,Industry,2013,43.3938707801605,,column_dropped
+China,Industry,2014,42.28271577910922,,column_dropped
+China,Industry,2015,40.047590216103224,,column_dropped
+China,Industry,2016,38.81115609392099,,column_dropped
+China,Industry,2017,39.129944350894974,,column_dropped
+China,Industry,2018,38.97770017470965,,column_dropped
+China,Industry,2019,37.76423331627352,,column_dropped
+China,Industry,2020,36.911562406630566,,column_dropped
+China,Industry,2021,38.092472204071655,,column_dropped
+China,Industry,2022,37.8945266620066,,column_dropped
+China,Industry,2023,36.772503022356126,,column_dropped
+India,Industry,1990,27.45369549572011,,column_dropped
+India,Industry,1991,26.441720176925415,,column_dropped
+India,Industry,1992,26.79274326963444,,column_dropped
+India,Industry,1993,26.781554282073856,,column_dropped
+India,Industry,1994,27.628201247310592,,column_dropped
+India,Industry,1995,28.59980942420241,,column_dropped
+India,Industry,1996,27.912270369841213,,column_dropped
+India,Industry,1997,27.837030763310555,,column_dropped
+India,Industry,1998,27.30303785175649,,column_dropped
+India,Industry,1999,26.519293348859552,,column_dropped
+India,Industry,2000,27.325828377591748,,column_dropped
+India,Industry,2001,26.48777734403069,,column_dropped
+India,Industry,2002,27.66065416078817,,column_dropped
+India,Industry,2003,27.474107121198788,,column_dropped
+India,Industry,2004,29.219106305293003,,column_dropped
+India,Industry,2005,29.533764191463725,,column_dropped
+India,Industry,2006,30.92723994358829,,column_dropped
+India,Industry,2007,30.903238251086872,,column_dropped
+India,Industry,2008,31.136719240954836,,column_dropped
+India,Industry,2009,31.12137211167441,,column_dropped
+India,Industry,2010,30.725078228581665,,column_dropped
+India,Industry,2011,30.161679763040706,,column_dropped
+India,Industry,2012,29.39852769652889,,column_dropped
+India,Industry,2013,28.40489956002461,,column_dropped
+India,Industry,2014,27.656401202644297,,column_dropped
+India,Industry,2015,27.34739147793997,,column_dropped
+India,Industry,2016,26.618999939978927,,column_dropped
+India,Industry,2017,26.50001664648039,,column_dropped
+India,Industry,2018,26.412091901373508,,column_dropped
+India,Industry,2019,24.591475307506645,,column_dropped
+India,Industry,2020,25.122905807834368,,column_dropped
+India,Industry,2021,26.46652360650103,,column_dropped
+India,Industry,2022,25.384519562946117,,column_dropped
+India,Industry,2023,25.302936496264028,,column_dropped
+Indonesia,Industry,1990,39.38494007071676,,column_dropped
+Indonesia,Industry,1991,41.204773616378446,,column_dropped
+Indonesia,Industry,1992,39.97996032853056,,column_dropped
+Indonesia,Industry,1993,39.6804980838497,,column_dropped
+Indonesia,Industry,1994,40.642044353025234,,column_dropped
+Indonesia,Industry,1995,41.80083742176535,,column_dropped
+Indonesia,Industry,1996,43.45578405011191,,column_dropped
+Indonesia,Industry,1997,44.32895679722566,,column_dropped
+Indonesia,Industry,1998,45.22777054962393,,column_dropped
+Indonesia,Industry,1999,43.360061673230085,,column_dropped
+Indonesia,Industry,2000,41.96907464335643,,column_dropped
+Indonesia,Industry,2001,47.89350078538706,,column_dropped
+Indonesia,Industry,2002,47.74533115925968,,column_dropped
+Indonesia,Industry,2003,43.749566091760805,,column_dropped
+Indonesia,Industry,2004,44.62761597546016,,column_dropped
+Indonesia,Industry,2005,46.54105887107114,,column_dropped
+Indonesia,Industry,2006,46.94355874107964,,column_dropped
+Indonesia,Industry,2007,46.799141520707266,,column_dropped
+Indonesia,Industry,2008,48.06074476901724,,column_dropped
+Indonesia,Industry,2009,47.65212258116211,,column_dropped
+Indonesia,Industry,2010,42.77586633627486,,column_dropped
+Indonesia,Industry,2011,43.913423426713344,,column_dropped
+Indonesia,Industry,2012,43.59374442333764,,column_dropped
+Indonesia,Industry,2013,42.63567743758887,,column_dropped
+Indonesia,Industry,2014,41.92834212700329,,column_dropped
+Indonesia,Industry,2015,40.04786240425055,,column_dropped
+Indonesia,Industry,2016,39.30844398020808,,column_dropped
+Indonesia,Industry,2017,39.37915480402372,,column_dropped
+Indonesia,Industry,2018,39.729737452384825,,column_dropped
+Indonesia,Industry,2019,38.951767995077915,,column_dropped
+Indonesia,Industry,2020,38.23839371879418,,column_dropped
+Indonesia,Industry,2021,39.84481919196861,,column_dropped
+Indonesia,Industry,2022,41.42926417609789,,column_dropped
+Indonesia,Industry,2023,40.21568231067943,,column_dropped
+Russian Federation,Industry,1990,45.003570319776465,,column_dropped
+Russian Federation,Industry,1991,45.86485520200215,,column_dropped
+Russian Federation,Industry,1992,42.25027143608627,,column_dropped
+Russian Federation,Industry,1993,40.52550521835461,,column_dropped
+Russian Federation,Industry,1994,41.21529267294311,,column_dropped
+Russian Federation,Industry,1995,34.5391926383218,,column_dropped
+Russian Federation,Industry,1996,35.346704252277746,,column_dropped
+Russian Federation,Industry,1997,34.68922704410731,,column_dropped
+Russian Federation,Industry,1998,33.94402923917231,,column_dropped
+Russian Federation,Industry,1999,33.49620125171215,,column_dropped
+Russian Federation,Industry,2000,33.91897031752003,,column_dropped
+Russian Federation,Industry,2001,31.837354123332055,,column_dropped
+Russian Federation,Industry,2002,29.05639281196621,,column_dropped
+Russian Federation,Industry,2003,28.65313499460585,,column_dropped
+Russian Federation,Industry,2004,31.702222426958805,,column_dropped
+Russian Federation,Industry,2005,32.62923207329212,,column_dropped
+Russian Federation,Industry,2006,31.780260587362047,,column_dropped
+Russian Federation,Industry,2007,31.222040801973748,,column_dropped
+Russian Federation,Industry,2008,30.78688170075321,,column_dropped
+Russian Federation,Industry,2009,29.326939025544423,,column_dropped
+Russian Federation,Industry,2010,29.999588218511963,,column_dropped
+Russian Federation,Industry,2011,29.413588837874705,,column_dropped
+Russian Federation,Industry,2012,29.102868072665977,,column_dropped
+Russian Federation,Industry,2013,28.191289179935247,,column_dropped
+Russian Federation,Industry,2014,27.931527060609895,,column_dropped
+Russian Federation,Industry,2015,29.794059987434917,,column_dropped
+Russian Federation,Industry,2016,29.173905066920824,,column_dropped
+Russian Federation,Industry,2017,30.673296885343714,,column_dropped
+Russian Federation,Industry,2018,32.554298053084054,,column_dropped
+Russian Federation,Industry,2019,32.15049583653793,,column_dropped
+Russian Federation,Industry,2020,29.717124581429545,,column_dropped
+Russian Federation,Industry,2021,31.785999154859155,,column_dropped
+Russian Federation,Industry,2022,32.230143568513775,,column_dropped
+Russian Federation,Industry,2023,30.408132921899757,,column_dropped
+United States,Industry,1997,23.13210113613156,,column_dropped
+United States,Industry,1998,22.670557780212217,,column_dropped
+United States,Industry,1999,22.55859773365591,,column_dropped
+United States,Industry,2000,22.451586084267987,,column_dropped
+United States,Industry,2001,21.46900444928241,,column_dropped
+United States,Industry,2002,20.65246551384005,,column_dropped
+United States,Industry,2003,20.739476693521553,,column_dropped
+United States,Industry,2004,20.95003655519666,,column_dropped
+United States,Industry,2005,21.20626981819895,,column_dropped
+United States,Industry,2006,21.586961786171084,,column_dropped
+United States,Industry,2007,21.423882162084983,,column_dropped
+United States,Industry,2008,20.793507368224,,column_dropped
+United States,Industry,2009,19.268477298017345,,column_dropped
+United States,Industry,2010,19.310257239385106,,column_dropped
+United States,Industry,2011,19.40750234317401,,column_dropped
+United States,Industry,2012,19.162611316950677,,column_dropped
+United States,Industry,2013,19.241626021737293,,column_dropped
+United States,Industry,2014,19.331515208317647,,column_dropped
+United States,Industry,2015,18.587132043518302,,column_dropped
+United States,Industry,2016,18.042221281845876,,column_dropped
+United States,Industry,2017,18.43542408360939,,column_dropped
+United States,Industry,2018,18.63089824311888,,column_dropped
+United States,Industry,2019,18.28042804148085,,column_dropped
+United States,Industry,2020,17.508428484361836,,column_dropped
+United States,Industry,2021,17.884653361026174,,column_dropped
+Canada,Fossil fuel energy consumption,2016,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2017,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2018,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2019,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2020,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2021,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2022,0.0,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2023,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2016,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2017,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2018,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2019,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2020,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2021,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2022,0.0,,flagged_as_anomaly → set to NaN before imputation
+China,Fossil fuel energy consumption,2023,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2016,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2017,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2018,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2019,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2020,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2021,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2022,0.0,,flagged_as_anomaly → set to NaN before imputation
+United States,Fossil fuel energy consumption,2023,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2015,45.956629150643,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2016,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2017,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2018,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2019,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2020,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2021,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2022,0.0,,flagged_as_anomaly → set to NaN before imputation
+India,Fossil fuel energy consumption,2023,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2015,54.75487024957248,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2016,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2017,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2018,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2019,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2020,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2021,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2022,0.0,,flagged_as_anomaly → set to NaN before imputation
+Indonesia,Fossil fuel energy consumption,2023,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2015,50.13906250571376,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2016,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2017,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2018,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2019,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2020,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2021,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2022,0.0,,flagged_as_anomaly → set to NaN before imputation
+Russian Federation,Fossil fuel energy consumption,2023,,,flagged_as_anomaly → set to NaN before imputation
+Canada,Fossil fuel energy consumption,2016,,73.905552,"recursive_3yr_avg (used years [2013, 2014, 2015])"
+Canada,Fossil fuel energy consumption,2017,,73.909863,"recursive_3yr_avg (used years [2014, 2015, 2016])"
+Canada,Fossil fuel energy consumption,2018,,73.777386,"recursive_3yr_avg (used years [2015, 2016, 2017])"
+Canada,Fossil fuel energy consumption,2019,,73.864267,"recursive_3yr_avg (used years [2016, 2017, 2018])"
+Canada,Fossil fuel energy consumption,2020,,73.850505,"recursive_3yr_avg (used years [2017, 2018, 2019])"
+Canada,Fossil fuel energy consumption,2021,,73.83072,"recursive_3yr_avg (used years [2018, 2019, 2020])"
+Canada,Fossil fuel energy consumption,2022,,73.848497,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+Canada,Fossil fuel energy consumption,2023,,73.843241,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+China,Fossil fuel energy consumption,2016,,83.87484,"recursive_3yr_avg (used years [2013, 2014, 2015])"
+China,Fossil fuel energy consumption,2017,,81.499746,"recursive_3yr_avg (used years [2014, 2015, 2016])"
+China,Fossil fuel energy consumption,2018,,78.814715,"recursive_3yr_avg (used years [2015, 2016, 2017])"
+China,Fossil fuel energy consumption,2019,,81.396434,"recursive_3yr_avg (used years [2016, 2017, 2018])"
+China,Fossil fuel energy consumption,2020,,80.570299,"recursive_3yr_avg (used years [2017, 2018, 2019])"
+China,Fossil fuel energy consumption,2021,,80.260483,"recursive_3yr_avg (used years [2018, 2019, 2020])"
+China,Fossil fuel energy consumption,2022,,80.742405,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+China,Fossil fuel energy consumption,2023,,80.524395,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+United States,Fossil fuel energy consumption,2016,,82.900231,"recursive_3yr_avg (used years [2013, 2014, 2015])"
+United States,Fossil fuel energy consumption,2017,,82.876012,"recursive_3yr_avg (used years [2014, 2015, 2016])"
+United States,Fossil fuel energy consumption,2018,,82.700687,"recursive_3yr_avg (used years [2015, 2016, 2017])"
+United States,Fossil fuel energy consumption,2019,,82.825643,"recursive_3yr_avg (used years [2016, 2017, 2018])"
+United States,Fossil fuel energy consumption,2020,,82.800781,"recursive_3yr_avg (used years [2017, 2018, 2019])"
+United States,Fossil fuel energy consumption,2021,,82.775704,"recursive_3yr_avg (used years [2018, 2019, 2020])"
+United States,Fossil fuel energy consumption,2022,,82.800709,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+United States,Fossil fuel energy consumption,2023,,82.792398,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+India,Fossil fuel energy consumption,2015,,75.280781,"recursive_3yr_avg (used years [2012, 2013, 2014])"
+India,Fossil fuel energy consumption,2016,,75.349459,"recursive_3yr_avg (used years [2013, 2014, 2015])"
+India,Fossil fuel energy consumption,2017,,75.47199,"recursive_3yr_avg (used years [2014, 2015, 2016])"
+India,Fossil fuel energy consumption,2018,,75.36741,"recursive_3yr_avg (used years [2015, 2016, 2017])"
+India,Fossil fuel energy consumption,2019,,75.396286,"recursive_3yr_avg (used years [2016, 2017, 2018])"
+India,Fossil fuel energy consumption,2020,,75.411895,"recursive_3yr_avg (used years [2017, 2018, 2019])"
+India,Fossil fuel energy consumption,2021,,75.391864,"recursive_3yr_avg (used years [2018, 2019, 2020])"
+India,Fossil fuel energy consumption,2022,,75.400015,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+India,Fossil fuel energy consumption,2023,,75.401258,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Indonesia,Fossil fuel energy consumption,2015,,80.649488,"recursive_3yr_avg (used years [2012, 2013, 2014])"
+Indonesia,Fossil fuel energy consumption,2016,,80.683706,"recursive_3yr_avg (used years [2013, 2014, 2015])"
+Indonesia,Fossil fuel energy consumption,2017,,81.011835,"recursive_3yr_avg (used years [2014, 2015, 2016])"
+Indonesia,Fossil fuel energy consumption,2018,,80.781676,"recursive_3yr_avg (used years [2015, 2016, 2017])"
+Indonesia,Fossil fuel energy consumption,2019,,80.825739,"recursive_3yr_avg (used years [2016, 2017, 2018])"
+Indonesia,Fossil fuel energy consumption,2020,,80.873083,"recursive_3yr_avg (used years [2017, 2018, 2019])"
+Indonesia,Fossil fuel energy consumption,2021,,80.826833,"recursive_3yr_avg (used years [2018, 2019, 2020])"
+Indonesia,Fossil fuel energy consumption,2022,,80.841885,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+Indonesia,Fossil fuel energy consumption,2023,,80.847267,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Russian Federation,Fossil fuel energy consumption,2015,,92.723463,"recursive_3yr_avg (used years [2012, 2013, 2014])"
+Russian Federation,Fossil fuel energy consumption,2016,,92.716321,"recursive_3yr_avg (used years [2013, 2014, 2015])"
+Russian Federation,Fossil fuel energy consumption,2017,,92.741798,"recursive_3yr_avg (used years [2014, 2015, 2016])"
+Russian Federation,Fossil fuel energy consumption,2018,,92.727194,"recursive_3yr_avg (used years [2015, 2016, 2017])"
+Russian Federation,Fossil fuel energy consumption,2019,,92.728438,"recursive_3yr_avg (used years [2016, 2017, 2018])"
+Russian Federation,Fossil fuel energy consumption,2020,,92.732477,"recursive_3yr_avg (used years [2017, 2018, 2019])"
+Russian Federation,Fossil fuel energy consumption,2021,,92.729369,"recursive_3yr_avg (used years [2018, 2019, 2020])"
+Russian Federation,Fossil fuel energy consumption,2022,,92.730095,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+Russian Federation,Fossil fuel energy consumption,2023,,92.730647,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Canada,Renewable energy consumption,2022,,23.366667,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+Canada,Renewable energy consumption,2023,,23.688889,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+China,Renewable energy consumption,2022,,14.8,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+China,Renewable energy consumption,2023,,14.966667,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+India,Renewable energy consumption,2022,,34.833333,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+India,Renewable energy consumption,2023,,35.277778,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Indonesia,Renewable energy consumption,2022,,20.633333,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+Indonesia,Renewable energy consumption,2023,,20.911111,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Russian Federation,Renewable energy consumption,2022,,3.466667,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+Russian Federation,Renewable energy consumption,2023,,3.555556,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+United States,Renewable energy consumption,2022,,10.7,"recursive_3yr_avg (used years [2019, 2020, 2021])"
+United States,Renewable energy consumption,2023,,10.866667,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Russian Federation,Electric power consumption,2023,,7047.143451,"recursive_3yr_avg (used years [2020, 2021, 2022])"
+Indonesia,Number of frost days,1990,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1991,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1992,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1993,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1994,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1995,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1996,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1997,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1998,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,1999,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2000,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2001,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2002,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2003,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2004,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2005,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2006,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2007,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2008,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2009,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2010,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2011,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2012,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2013,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2014,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2015,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2016,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2017,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2018,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2019,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2020,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2021,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2022,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Indonesia,Number of frost days,2023,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,1992,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,1993,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,1999,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,2004,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,2009,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,2013,,0.0,fill_zero (event physically absent or near-zero observed distribution)
+Canada,Number of hot days,2016,,0.0,fill_zero (event physically absent or near-zero observed distribution)

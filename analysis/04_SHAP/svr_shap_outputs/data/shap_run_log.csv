@@ -1,0 +1,7 @@
+country,feature_set,status,n_rows_used,kernel,C,epsilon,gamma,degree,morf_lerf_final_MORF_MAE_scaled_y,morf_lerf_final_LERF_MAE_scaled_y,error_message
+Canada,augmented,success,33,rbf,10,0.01,0.05,,0.3703893271776376,0.3703893271776376,
+Russian Federation,augmented,success,32,rbf,10,0.01,0.01,,0.2456525843558416,0.2456525843558416,
+China,augmented,success,33,linear,5,0.01,,,0.571940702385034,0.571940702385034,
+United States,augmented,success,33,rbf,10,0.01,0.05,,0.4430153338960381,0.4430153338960381,
+India,augmented,success,33,linear,5,0.01,,,0.49058153071497357,0.49058153071497357,
+Indonesia,augmented,success,33,linear,1,0.01,,,0.39035953614657304,0.39035953614657304,

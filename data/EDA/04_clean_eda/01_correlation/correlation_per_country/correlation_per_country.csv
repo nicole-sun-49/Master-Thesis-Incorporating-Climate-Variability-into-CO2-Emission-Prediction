@@ -1,0 +1,61 @@
+Country,Feature,Pearson_r_with_CO2
+Canada,Population,0.782
+Canada,GDP,0.767
+Canada,Electric power consumption,-0.086
+Canada,Fossil fuel energy consumption,0.419
+Canada,Renewable energy consumption,-0.119
+Canada,Fertilizer consumption,0.625
+Canada,Temperature annual mean,0.448
+Canada,Temperature std across months,0.086
+Canada,Number of frost days,-0.403
+Canada,Number of hot days,0.138
+China,Population,0.954
+China,GDP,0.95
+China,Electric power consumption,0.975
+China,Fossil fuel energy consumption,0.383
+China,Renewable energy consumption,-0.915
+China,Fertilizer consumption,0.896
+China,Temperature annual mean,0.716
+China,Temperature std across months,0.336
+China,Number of frost days,-0.751
+China,Number of hot days,0.648
+India,Population,0.972
+India,GDP,0.989
+India,Electric power consumption,0.995
+India,Fossil fuel energy consumption,0.909
+India,Renewable energy consumption,-0.944
+India,Fertilizer consumption,0.944
+India,Temperature annual mean,0.684
+India,Temperature std across months,0.191
+India,Number of frost days,-0.611
+India,Number of hot days,0.38
+Indonesia,Population,0.976
+Indonesia,GDP,0.959
+Indonesia,Electric power consumption,0.988
+Indonesia,Fossil fuel energy consumption,0.816
+Indonesia,Renewable energy consumption,-0.976
+Indonesia,Fertilizer consumption,0.887
+Indonesia,Temperature annual mean,0.791
+Indonesia,Temperature std across months,-0.291
+Indonesia,Number of frost days,
+Indonesia,Number of hot days,0.388
+Russian Federation,Population,0.111
+Russian Federation,GDP,0.276
+Russian Federation,Electric power consumption,0.483
+Russian Federation,Fossil fuel energy consumption,0.432
+Russian Federation,Renewable energy consumption,0.191
+Russian Federation,Fertilizer consumption,0.891
+Russian Federation,Temperature annual mean,0.117
+Russian Federation,Temperature std across months,-0.048
+Russian Federation,Number of frost days,0.069
+Russian Federation,Number of hot days,-0.078
+United States,Population,-0.376
+United States,GDP,-0.5
+United States,Electric power consumption,0.764
+United States,Fossil fuel energy consumption,0.694
+United States,Renewable energy consumption,-0.623
+United States,Fertilizer consumption,-0.354
+United States,Temperature annual mean,-0.229
+United States,Temperature std across months,-0.252
+United States,Number of frost days,0.253
+United States,Number of hot days,-0.286

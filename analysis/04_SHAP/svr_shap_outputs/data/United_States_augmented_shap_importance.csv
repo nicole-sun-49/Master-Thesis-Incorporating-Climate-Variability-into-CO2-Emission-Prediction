@@ -1,0 +1,12 @@
+country,feature_set,rank,feature,mean_abs_shap
+United States,augmented,1,Electric power consumption,0.20298219799724165
+United States,augmented,2,Renewable energy consumption,0.10452511582036102
+United States,augmented,3,Fossil fuel energy consumption,0.0865663945266675
+United States,augmented,4,CO2_emissions_lag1,0.07968964115249366
+United States,augmented,5,Number of hot days,0.056544648443674475
+United States,augmented,6,GDP,0.03431974672411858
+United States,augmented,7,Fertilizer consumption,0.028013200816089753
+United States,augmented,8,Number of frost days,0.019261311949878252
+United States,augmented,9,Population,0.019061950022554584
+United States,augmented,10,Temperature annual mean,0.01634508776234645
+United States,augmented,11,Temperature std across months,0.0052113899537100435

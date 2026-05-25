@@ -1,0 +1,2 @@
+model,mae_threshold,original_rows,cleaned_rows,removed_rows,removed_ratio
+ARIMAX,2,768,700,68,0.08854166666666667

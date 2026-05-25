@@ -1,0 +1,11 @@
+Feature,High Latitude,Middle Latitude,Low Latitude
+Population,0.98,0.444,0.882
+GDP,-0.091,0.311,0.921
+Electric power consumption,-0.959,-0.106,0.483
+Fossil fuel energy consumption,0.979,0.256,0.079
+Renewable energy consumption,-0.974,-0.3,-0.31
+Fertilizer consumption,-0.827,0.662,-0.088
+Temperature annual mean,0.221,0.52,0.31
+Temperature std across months,0.152,0.172,0.654
+Number of frost days,-0.238,0.23,0.719
+Number of hot days,0.522,-0.148,0.767

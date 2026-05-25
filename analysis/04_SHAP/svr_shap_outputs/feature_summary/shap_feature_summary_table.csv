@@ -1,0 +1,7 @@
+Country,Rank 1,Rank 2,Rank 3,Top Temp Feature,Temp Rank
+Canada,Population,CO2 emissions lag1,Electric power consumption,Number of hot days,7
+Russian Federation,Fertilizer consumption,CO2 emissions lag1,Electric power consumption,Temperature std across months,4
+China,CO2 emissions lag1,GDP,Renewable energy consumption,Temperature annual mean,7
+United States,Electric power consumption,Renewable energy consumption,Fossil fuel energy consumption,Number of hot days,5
+India,Electric power consumption,GDP,Fossil fuel energy consumption,Temperature std across months,8
+Indonesia,Electric power consumption,CO2 emissions lag1,Fertilizer consumption,Temperature annual mean,7

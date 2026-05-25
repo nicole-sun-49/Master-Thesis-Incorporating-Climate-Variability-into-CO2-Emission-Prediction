@@ -1,0 +1,12 @@
+country,feature_set,rank,feature,mean_abs_shap
+Canada,augmented,1,Population,0.18810911189655674
+Canada,augmented,2,CO2_emissions_lag1,0.11232721296919411
+Canada,augmented,3,Electric power consumption,0.09902529926623443
+Canada,augmented,4,Renewable energy consumption,0.08833342645715654
+Canada,augmented,5,Fertilizer consumption,0.07829752314626526
+Canada,augmented,6,GDP,0.04328172965310554
+Canada,augmented,7,Number of hot days,0.024754855115438693
+Canada,augmented,8,Temperature annual mean,0.021987221672859575
+Canada,augmented,9,Fossil fuel energy consumption,0.020908687584318127
+Canada,augmented,10,Temperature std across months,0.010358135810821893
+Canada,augmented,11,Number of frost days,0.004677012023849595

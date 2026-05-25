@@ -1,0 +1,7 @@
+Country,ADF_statistic,p_value,used_lags,n_obs,Critical_1pct,Critical_5pct,Critical_10pct,Stationary_5pct
+Canada,-2.2652,0.1523,10,23,-3.7147,-2.986,-2.6337,No
+China,0.3225,0.5195,10,23,-3.7147,-2.986,-2.6337,No
+India,2.2504,0.7931,10,23,-3.7147,-2.986,-2.6337,No
+Indonesia,1.5708,0.6967,10,23,-3.7147,-2.986,-2.6337,No
+Russian Federation,0.4307,0.5349,10,23,-3.7147,-2.986,-2.6337,No
+United States,-1.253,0.2959,10,23,-3.7147,-2.986,-2.6337,No

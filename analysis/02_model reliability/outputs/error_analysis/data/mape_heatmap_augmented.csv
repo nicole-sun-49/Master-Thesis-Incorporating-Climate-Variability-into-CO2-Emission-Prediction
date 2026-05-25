@@ -1,0 +1,211 @@
+feature_set,model,country,year,MAPE_pct
+augmented,ARIMAX,Canada,2017,6.3828
+augmented,ARIMAX,Canada,2018,1.4216
+augmented,ARIMAX,Canada,2019,1.7917
+augmented,ARIMAX,Canada,2020,10.573
+augmented,ARIMAX,Canada,2021,8.3971
+augmented,ARIMAX,Canada,2022,0.696
+augmented,ARIMAX,Canada,2023,0.0578
+augmented,ARIMAX,Russian Federation,2017,0.5097
+augmented,ARIMAX,Russian Federation,2018,0.829
+augmented,ARIMAX,Russian Federation,2019,3.2079
+augmented,ARIMAX,Russian Federation,2020,9.0531
+augmented,ARIMAX,Russian Federation,2021,5.7001
+augmented,ARIMAX,Russian Federation,2022,2.6331
+augmented,ARIMAX,Russian Federation,2023,9.4918
+augmented,ARIMAX,China,2017,1.2935
+augmented,ARIMAX,China,2018,4.7442
+augmented,ARIMAX,China,2019,5.2018
+augmented,ARIMAX,China,2020,3.0504
+augmented,ARIMAX,China,2021,5.9254
+augmented,ARIMAX,China,2022,1.9652
+augmented,ARIMAX,China,2023,1.1557
+augmented,ARIMAX,United States,2017,1.4351
+augmented,ARIMAX,United States,2018,1.2022
+augmented,ARIMAX,United States,2019,2.688
+augmented,ARIMAX,United States,2020,5.4097
+augmented,ARIMAX,United States,2021,0.4369
+augmented,ARIMAX,United States,2022,0.6722
+augmented,ARIMAX,United States,2023,0.255
+augmented,ARIMAX,India,2017,0.0142
+augmented,ARIMAX,India,2018,1.0733
+augmented,ARIMAX,India,2019,2.8487
+augmented,ARIMAX,India,2020,0.1473
+augmented,ARIMAX,India,2021,1.3765
+augmented,ARIMAX,India,2022,0.9303
+augmented,ARIMAX,India,2023,1.0386
+augmented,ARIMAX,Indonesia,2017,0.8135
+augmented,ARIMAX,Indonesia,2018,10.0568
+augmented,ARIMAX,Indonesia,2019,6.4359
+augmented,ARIMAX,Indonesia,2020,0.4117
+augmented,ARIMAX,Indonesia,2021,0.4159
+augmented,ARIMAX,Indonesia,2022,5.6032
+augmented,ARIMAX,Indonesia,2023,4.4271
+augmented,SVR,Canada,2017,4.7523
+augmented,SVR,Canada,2018,6.5383
+augmented,SVR,Canada,2019,3.9718
+augmented,SVR,Canada,2020,18.5859
+augmented,SVR,Canada,2021,13.9803
+augmented,SVR,Canada,2022,10.7533
+augmented,SVR,Canada,2023,1.7458
+augmented,SVR,Russian Federation,2017,2.0718
+augmented,SVR,Russian Federation,2018,1.5717
+augmented,SVR,Russian Federation,2019,2.274
+augmented,SVR,Russian Federation,2020,2.2813
+augmented,SVR,Russian Federation,2021,5.0807
+augmented,SVR,Russian Federation,2022,0.2478
+augmented,SVR,Russian Federation,2023,3.5808
+augmented,SVR,China,2017,2.0383
+augmented,SVR,China,2018,1.7584
+augmented,SVR,China,2019,0.4991
+augmented,SVR,China,2020,0.3743
+augmented,SVR,China,2021,1.242
+augmented,SVR,China,2022,5.3094
+augmented,SVR,China,2023,0.3929
+augmented,SVR,United States,2017,1.8362
+augmented,SVR,United States,2018,0.4851
+augmented,SVR,United States,2019,1.6286
+augmented,SVR,United States,2020,7.4965
+augmented,SVR,United States,2021,1.0022
+augmented,SVR,United States,2022,0.0843
+augmented,SVR,United States,2023,0.272
+augmented,SVR,India,2017,1.4678
+augmented,SVR,India,2018,0.06
+augmented,SVR,India,2019,2.989
+augmented,SVR,India,2020,2.2811
+augmented,SVR,India,2021,6.937
+augmented,SVR,India,2022,2.4978
+augmented,SVR,India,2023,1.0475
+augmented,SVR,Indonesia,2017,0.2131
+augmented,SVR,Indonesia,2018,5.6343
+augmented,SVR,Indonesia,2019,7.6044
+augmented,SVR,Indonesia,2020,1.0735
+augmented,SVR,Indonesia,2021,2.2608
+augmented,SVR,Indonesia,2022,11.1024
+augmented,SVR,Indonesia,2023,6.1671
+augmented,XGBoost,Canada,2017,2.851
+augmented,XGBoost,Canada,2018,9.4298
+augmented,XGBoost,Canada,2019,1.7847
+augmented,XGBoost,Canada,2020,10.4886
+augmented,XGBoost,Canada,2021,7.1169
+augmented,XGBoost,Canada,2022,1.7232
+augmented,XGBoost,Canada,2023,1.2929
+augmented,XGBoost,Russian Federation,2017,4.6075
+augmented,XGBoost,Russian Federation,2018,5.5292
+augmented,XGBoost,Russian Federation,2019,5.0939
+augmented,XGBoost,Russian Federation,2020,2.6335
+augmented,XGBoost,Russian Federation,2021,8.7668
+augmented,XGBoost,Russian Federation,2022,1.6015
+augmented,XGBoost,Russian Federation,2023,3.1747
+augmented,XGBoost,China,2017,2.1223
+augmented,XGBoost,China,2018,4.64
+augmented,XGBoost,China,2019,2.459
+augmented,XGBoost,China,2020,1.3087
+augmented,XGBoost,China,2021,4.7271
+augmented,XGBoost,China,2022,2.6926
+augmented,XGBoost,China,2023,7.1924
+augmented,XGBoost,United States,2017,2.7694
+augmented,XGBoost,United States,2018,1.6701
+augmented,XGBoost,United States,2019,3.986
+augmented,XGBoost,United States,2020,12.1923
+augmented,XGBoost,United States,2021,1.7449
+augmented,XGBoost,United States,2022,0.8089
+augmented,XGBoost,United States,2023,4.138
+augmented,XGBoost,India,2017,5.3382
+augmented,XGBoost,India,2018,4.5593
+augmented,XGBoost,India,2019,0.162
+augmented,XGBoost,India,2020,8.2243
+augmented,XGBoost,India,2021,1.9277
+augmented,XGBoost,India,2022,7.5817
+augmented,XGBoost,India,2023,6.9319
+augmented,XGBoost,Indonesia,2017,6.4154
+augmented,XGBoost,Indonesia,2018,10.2404
+augmented,XGBoost,Indonesia,2019,6.5055
+augmented,XGBoost,Indonesia,2020,6.8281
+augmented,XGBoost,Indonesia,2021,1.0119
+augmented,XGBoost,Indonesia,2022,13.8622
+augmented,XGBoost,Indonesia,2023,6.5114
+augmented,LSTCN,Canada,2017,3.4488
+augmented,LSTCN,Canada,2018,5.4051
+augmented,LSTCN,Canada,2019,10.6943
+augmented,LSTCN,Canada,2020,7.1082
+augmented,LSTCN,Canada,2021,9.2324
+augmented,LSTCN,Canada,2022,8.0088
+augmented,LSTCN,Canada,2023,6.9359
+augmented,LSTCN,Russian Federation,2017,0.9364
+augmented,LSTCN,Russian Federation,2018,3.9601
+augmented,LSTCN,Russian Federation,2019,6.4212
+augmented,LSTCN,Russian Federation,2020,1.0865
+augmented,LSTCN,Russian Federation,2021,12.6648
+augmented,LSTCN,Russian Federation,2022,2.3744
+augmented,LSTCN,Russian Federation,2023,6.1459
+augmented,LSTCN,China,2017,1.9121
+augmented,LSTCN,China,2018,0.4794
+augmented,LSTCN,China,2019,0.2544
+augmented,LSTCN,China,2020,2.3867
+augmented,LSTCN,China,2021,5.11
+augmented,LSTCN,China,2022,0.6218
+augmented,LSTCN,China,2023,2.667
+augmented,LSTCN,United States,2017,3.9617
+augmented,LSTCN,United States,2018,2.8806
+augmented,LSTCN,United States,2019,0.1805
+augmented,LSTCN,United States,2020,11.5305
+augmented,LSTCN,United States,2021,6.104
+augmented,LSTCN,United States,2022,0.4753
+augmented,LSTCN,United States,2023,0.6845
+augmented,LSTCN,India,2017,1.7584
+augmented,LSTCN,India,2018,3.7709
+augmented,LSTCN,India,2019,2.8235
+augmented,LSTCN,India,2020,1.3236
+augmented,LSTCN,India,2021,13.2134
+augmented,LSTCN,India,2022,9.4127
+augmented,LSTCN,India,2023,11.5568
+augmented,LSTCN,Indonesia,2017,2.0602
+augmented,LSTCN,Indonesia,2018,10.7571
+augmented,LSTCN,Indonesia,2019,9.5355
+augmented,LSTCN,Indonesia,2020,8.4675
+augmented,LSTCN,Indonesia,2021,1.8146
+augmented,LSTCN,Indonesia,2022,15.5187
+augmented,LSTCN,Indonesia,2023,14.3758
+augmented,Average,Canada,2017,4.3587
+augmented,Average,Canada,2018,5.6987
+augmented,Average,Canada,2019,4.5606
+augmented,Average,Canada,2020,11.6889
+augmented,Average,Canada,2021,9.6817
+augmented,Average,Canada,2022,5.2953
+augmented,Average,Canada,2023,2.5081
+augmented,Average,Russian Federation,2017,2.0314
+augmented,Average,Russian Federation,2018,2.9725
+augmented,Average,Russian Federation,2019,4.2493
+augmented,Average,Russian Federation,2020,3.7636
+augmented,Average,Russian Federation,2021,8.0531
+augmented,Average,Russian Federation,2022,1.7142
+augmented,Average,Russian Federation,2023,5.5983
+augmented,Average,China,2017,1.8416
+augmented,Average,China,2018,2.9055
+augmented,Average,China,2019,2.1036
+augmented,Average,China,2020,1.78
+augmented,Average,China,2021,4.2511
+augmented,Average,China,2022,2.6473
+augmented,Average,China,2023,2.852
+augmented,Average,United States,2017,2.5006
+augmented,Average,United States,2018,1.5595
+augmented,Average,United States,2019,2.1208
+augmented,Average,United States,2020,9.1573
+augmented,Average,United States,2021,2.322
+augmented,Average,United States,2022,0.5102
+augmented,Average,United States,2023,1.3374
+augmented,Average,India,2017,2.1447
+augmented,Average,India,2018,2.3659
+augmented,Average,India,2019,2.2058
+augmented,Average,India,2020,2.9941
+augmented,Average,India,2021,5.8637
+augmented,Average,India,2022,5.1056
+augmented,Average,India,2023,5.1437
+augmented,Average,Indonesia,2017,2.3755
+augmented,Average,Indonesia,2018,9.1722
+augmented,Average,Indonesia,2019,7.5203
+augmented,Average,Indonesia,2020,4.1952
+augmented,Average,Indonesia,2021,1.3758
+augmented,Average,Indonesia,2022,11.5216
+augmented,Average,Indonesia,2023,7.8704
